@@ -1,0 +1,741 @@
+11:09:13.081 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+11:09:20.868 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+11:09:23.927 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+11:09:25.305 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+11:09:25.311 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+11:09:25.315 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+11:09:25.881 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+11:09:26.008 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+11:09:26.124 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+11:09:26.243 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+11:09:26.328 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+11:09:26.461 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+11:09:26.533 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+11:09:26.620 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+  <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+17:33:08.320 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+17:33:12.073 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+17:33:15.091 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+17:33:16.865 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+17:33:16.870 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+17:33:16.890 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+17:33:18.481 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+17:33:18.561 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+17:33:18.658 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+17:33:18.753 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+17:33:18.818 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+17:33:18.897 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+17:33:18.959 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+17:33:19.022 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+21:31:50.613 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:31:59.448 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:32:49.195 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:32:59.684 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:33:02.697 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+21:33:02.772 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+21:33:10.334 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: Unable to locate element: //input[@id='input-firstname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [36122277-402a-4227-a16e-86bff8f61a4e, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 138.0.1, moz:accessibilityChecks: false, moz:buildID: 20250430203103, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10156, moz:profile: C:\Users\giree\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 36122277-402a-4227-a16e-86bff8f61a4e
+21:36:57.175 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:37:01.976 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:37:59.033 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:38:07.100 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:38:10.161 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+21:38:10.566 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+21:38:15.731 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: Unable to locate element: //input[@id='input-firstname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6ee404f1-0659-47cd-a5b0-86449b59a5bf, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 138.0.1, moz:accessibilityChecks: false, moz:buildID: 20250430203103, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9448, moz:profile: C:\Users\giree\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 6ee404f1-0659-47cd-a5b0-86449b59a5bf
+21:40:06.936 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:40:13.838 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:40:19.502 [main] INFO  TestCases.TC1AccountRegisterTest - browser launched
+21:40:32.402 [main] INFO  TestCases.TC1AccountRegisterTest - navigated to home page
+21:40:35.429 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+21:40:35.451 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+21:40:40.489 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7ca2e0b4676aa0e5187772feac6d920, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49939}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49939/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7ca2e0b4676aa0e5187772feac6d920
+22:05:28.803 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:05:34.961 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:05:47.012 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:05:49.298 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:05:52.309 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+22:05:52.330 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+22:05:57.358 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01084e8967109543f9258fb6ffc6b2e5, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50143}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50143/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01084e8967109543f9258fb6ffc6b2e5
+22:08:57.210 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:09:00.229 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:09:05.188 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:09:11.378 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:09:14.419 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+22:09:15.807 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+22:09:15.809 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+22:09:15.814 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+22:09:18.474 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+22:09:18.554 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+22:09:18.634 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+22:09:18.719 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+22:09:18.813 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+22:09:18.900 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+22:09:18.999 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+22:09:19.074 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+22:41:10.765 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:41:19.758 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:41:24.959 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:41:28.708 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:41:31.722 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+22:41:32.772 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+22:41:32.780 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+22:41:32.786 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+22:41:33.162 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+22:41:33.284 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+22:41:33.396 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+22:41:33.468 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+22:41:33.543 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+22:41:33.631 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+22:41:33.706 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+22:41:33.788 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+10:56:17.823 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+10:56:24.853 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+10:56:31.822 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+10:56:38.442 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+10:56:41.647 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+10:56:44.040 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+10:56:44.043 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+10:56:44.199 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+10:56:46.050 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+10:56:46.117 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+10:56:46.206 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+10:56:46.310 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+10:56:46.468 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+10:56:46.578 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+10:56:46.677 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+10:56:46.764 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+12:38:27.216 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+12:38:34.150 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+12:38:37.241 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+12:38:38.669 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+12:38:38.674 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+12:38:38.692 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+12:38:43.808 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af384461dbbbeafcbe15f4b66aaa1dc5, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64129}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64129/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af384461dbbbeafcbe15f4b66aaa1dc5
+12:41:24.422 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+12:41:29.741 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+12:41:32.826 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+12:41:39.981 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+12:41:39.991 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+12:41:40.003 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+12:41:45.086 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ad18aabccc8546321e917177f2857f04, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64173}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64173/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ad18aabccc8546321e917177f2857f04
+12:45:12.447 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+12:45:18.764 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+12:45:21.850 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+12:45:28.859 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+12:45:28.859 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+12:45:28.882 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+12:45:33.925 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd4eb2b501b945ebbfc76364a7c98d22, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64210}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64210/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd4eb2b501b945ebbfc76364a7c98d22
+13:07:59.953 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:08:05.946 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:08:09.023 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:08:16.143 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:08:16.151 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:08:18.162 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:08:23.181 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61724f67ef108e3e14a1423c68f2e690, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\giree\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64374}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64374/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 61724f67ef108e3e14a1423c68f2e690
+13:23:58.621 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:24:04.119 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:24:07.191 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:24:14.292 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:24:14.313 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:24:19.348 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:24:19.376 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+13:25:35.039 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:25:40.768 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:25:43.846 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:25:51.037 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:25:51.049 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:25:56.068 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:25:56.068 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: class jdk.proxy2.$Proxy28 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy28 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+13:26:40.629 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:26:48.186 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:26:51.279 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:26:59.247 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:26:59.264 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:27:04.292 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:27:04.292 [main] ERROR TestCases.TC1AccountRegisterTest - Failed to complete account registration: class jdk.proxy2.$Proxy28 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy28 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+13:28:16.835 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:28:24.504 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:28:27.594 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:28:35.488 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:28:35.498 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:28:40.527 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:28:40.696 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+13:28:40.808 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+13:28:40.973 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+13:28:41.115 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+13:28:41.243 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+13:28:41.392 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+13:28:41.543 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+13:28:41.708 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+13:35:16.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+13:35:20.407 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+13:35:29.758 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+13:35:32.874 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+13:35:45.768 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+13:35:45.773 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+13:35:50.801 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+13:35:50.961 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+13:35:51.114 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+13:35:51.278 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+13:35:51.427 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+13:35:51.566 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+13:35:51.695 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+13:35:51.835 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+13:35:51.949 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+09:22:06.428 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\giree\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+09:22:57.285 [main] INFO  TestCases.TC2Login - Browser chrome launched successfully
+09:23:01.929 [main] INFO  TestCases.TC2Login - Navigated to home page
+09:32:42.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\giree\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+09:32:50.904 [main] INFO  TestCases.TC2Login - Browser chrome launched successfully
+09:33:10.523 [main] INFO  TestCases.TC2Login - Navigated to home page
+17:39:56.106 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+17:40:26.453 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:40:31.441 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+17:48:26.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+17:48:29.163 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:48:33.349 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+17:48:40.095 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+17:48:40.709 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+17:52:10.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+17:52:18.059 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:52:21.031 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+17:52:26.966 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+17:52:28.323 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+17:54:14.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+17:54:21.723 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:54:24.873 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+17:54:36.238 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+17:54:42.001 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+17:54:43.544 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+17:54:44.733 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+17:37:25.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\grouping.xml
+
+17:37:49.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\grouping.xml
+
+17:38:38.772 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\grouping.xml
+
+17:40:24.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\grouping.xml
+
+17:40:54.752 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:42:12.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\grouping.xml
+
+17:42:33.488 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+17:43:04.420 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+17:43:18.119 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+17:43:24.086 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+17:43:25.865 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+17:43:29.326 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+22:18:54.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+22:19:21.646 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+22:19:26.664 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+22:19:45.735 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+22:19:52.532 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+22:19:54.594 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+22:19:56.964 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+22:33:05.714 [main] INFO  TestCases.TC1AccountRegisterTest - Browser chrome launched successfully
+22:33:09.046 [main] INFO  TestCases.TC1AccountRegisterTest - Navigated to home page
+22:33:18.408 [main] INFO  TestCases.TC1AccountRegisterTest - Starting register test
+22:33:26.849 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully navigated to registration page
+22:33:26.849 [main] INFO  TestCases.TC1AccountRegisterTest - Starting account registration test
+22:33:31.884 [main] INFO  TestCases.TC1AccountRegisterTest - Entering first name
+22:33:32.078 [main] INFO  TestCases.TC1AccountRegisterTest - Entering last name
+22:33:32.186 [main] INFO  TestCases.TC1AccountRegisterTest - Entering email
+22:33:32.321 [main] INFO  TestCases.TC1AccountRegisterTest - Entering phone number
+22:33:32.403 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy
+22:33:32.488 [main] INFO  TestCases.TC1AccountRegisterTest - Setting password
+22:33:32.606 [main] INFO  TestCases.TC1AccountRegisterTest - Confirming password
+22:33:32.769 [main] INFO  TestCases.TC1AccountRegisterTest - Accepting privacy policy again
+22:33:32.931 [main] INFO  TestCases.TC1AccountRegisterTest - Successfully completed account registration
+20:28:36.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+20:29:03.176 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+20:29:08.221 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+20:29:26.065 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:29:32.636 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:29:34.145 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+20:29:35.626 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+20:49:06.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+20:49:06.418 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+20:51:53.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+20:52:04.377 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+20:52:10.144 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+20:52:25.080 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:52:30.876 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:52:32.356 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+20:52:33.634 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+20:55:16.240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+20:55:19.724 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+20:55:28.995 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+20:55:39.654 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:55:45.515 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+20:55:47.238 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+20:55:47.695 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+21:01:41.177 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\RemoteParllelExecution.xml
+
+21:01:43.706 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+21:01:51.171 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+21:02:04.250 [TestNG-tests-3] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:02:10.753 [TestNG-tests-3] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:02:12.575 [TestNG-tests-3] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+21:02:13.028 [TestNG-tests-3] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+21:03:55.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\RemoteParllelExecution.xml
+
+21:03:57.831 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+21:04:04.405 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+21:04:18.170 [TestNG-tests-3] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:04:24.104 [TestNG-tests-3] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:04:25.501 [TestNG-tests-3] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+21:04:26.178 [TestNG-tests-3] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+21:06:55.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:07:03.982 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+21:07:07.784 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+21:07:17.991 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:07:23.975 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:07:25.549 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+21:07:26.005 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+21:11:30.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:11:42.287 [main] INFO  TestCases.TC3LoginWithDDT - Browser chrome launched successfully
+21:11:47.835 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+21:11:58.187 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:12:04.127 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:12:05.883 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+21:12:06.504 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+21:15:51.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:17:31.950 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:19:16.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:20:09.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\intellij Idea\Project2\src\test\java\TestCases\testng.xml
+
+21:21:06.051 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+21:21:15.242 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+21:21:34.819 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:21:41.739 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+21:21:46.927 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+21:21:48.370 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+19:33:21.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 37 ms.
+19:33:21.468 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+19:33:21.469 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.470 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:33:21.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.482 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:33:21.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:21.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:21.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:33:21.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:27.110 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+19:33:32.501 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73fb1d7f: 198 ms
+19:33:32.540 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@108a46d6: 39 ms
+19:33:32.554 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@320a8ebf: 14 ms
+19:33:32.588 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@317e9c3c: 33 ms
+19:33:32.597 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47ffe971: 9 ms
+19:33:32.597 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d04529c: 0 ms
+19:34:38.803 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19:34:38.823 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+19:34:38.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.827 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.830 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.830 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.831 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.831 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:34:38.832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.837 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.837 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.841 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:34:38.841 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.843 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.843 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:34:38.846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:34:38.846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:35:16.794 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+19:35:27.535 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+19:35:30.560 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19:35:55.902 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58ff8d79: 49 ms
+19:35:55.915 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d9dff65: 13 ms
+19:35:55.926 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3374b5bc: 11 ms
+19:35:55.934 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35c12c7a: 8 ms
+19:35:55.941 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17f2dd85: 7 ms
+19:35:55.941 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e58512c: 0 ms
+18:56:14.498 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+18:56:14.537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+18:56:14.539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:56:14.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:56:14.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:56:14.563 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:56:53.546 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+18:57:07.394 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+18:57:10.410 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+18:57:41.384 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58ff8d79: 55 ms
+18:57:41.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d9dff65: 9 ms
+18:57:41.425 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3374b5bc: 31 ms
+18:57:41.430 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35c12c7a: 5 ms
+18:57:41.439 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17f2dd85: 8 ms
+18:57:41.439 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e58512c: 0 ms
+18:59:54.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+18:59:54.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+18:59:54.409 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:59:54.411 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.411 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:59:54.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:59:54.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:59:54.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:59:54.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:00:04.150 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+19:00:09.972 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+19:00:13.003 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+19:00:35.799 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58ff8d79: 46 ms
+19:00:35.812 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d9dff65: 13 ms
+19:00:35.818 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3374b5bc: 6 ms
+19:00:35.826 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35c12c7a: 6 ms
+19:00:35.831 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17f2dd85: 5 ms
+19:00:35.831 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e58512c: 0 ms
+19:07:33.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19:07:33.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+19:07:33.119 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.121 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:07:33.125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:07:33.134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:07:33.137 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.137 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:33.137 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:07:33.139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:07:46.160 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+19:07:51.702 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+19:07:54.716 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+19:08:16.399 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58ff8d79: 38 ms
+19:08:16.409 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d9dff65: 10 ms
+19:08:16.416 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3374b5bc: 7 ms
+19:08:16.423 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35c12c7a: 6 ms
+19:08:16.429 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17f2dd85: 6 ms
+19:08:16.429 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e58512c: 0 ms
+11:20:45.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 41 ms.
+11:20:46.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+11:20:46.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:20:46.061 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:20:46.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.083 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:46.083 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:46.084 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:20:46.084 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:21:42.103 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+11:22:00.223 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+11:22:03.233 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+11:22:35.683 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:22:44.833 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:22:47.217 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+11:22:47.898 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:22:51.743 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5f481b73: 102 ms
+11:22:51.755 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3aa41da1: 12 ms
+11:22:51.763 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@788ddc1f: 7 ms
+11:22:51.771 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29149030: 8 ms
+11:22:51.776 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7f5538a1: 5 ms
+11:22:51.776 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@72fd8a3c: 0 ms
+11:26:31.382 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+11:26:31.408 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+11:26:31.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.411 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:26:31.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:26:31.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:31.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:31.429 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:26:43.575 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+11:26:58.524 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+11:27:01.550 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+11:27:09.188 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:27:09.188 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:27:15.395 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:27:15.395 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:27:18.022 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+11:27:20.293 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:27:22.884 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@a5272be: 64 ms
+11:27:22.886 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d9bd4da: 1 ms
+11:27:22.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@423b2b62: 8 ms
+11:27:22.900 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75d4a80f: 6 ms
+11:27:22.905 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6cf0a747: 5 ms
+11:27:22.905 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21505815: 0 ms
+11:38:52.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+11:38:52.877 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+11:38:52.879 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.880 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:38:52.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.882 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.882 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.890 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.890 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:38:52.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:38:52.899 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:38:52.899 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:04.687 [main] INFO  TestCases.TC3LoginWithDDT - Browser firefox launched successfully
+11:39:11.201 [main] INFO  TestCases.TC3LoginWithDDT - Navigated to home page
+11:39:14.226 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+11:39:23.350 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:39:23.350 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:39:29.454 [main] ERROR TestCases.TC3LoginWithDDT - Failed to login
+11:39:29.454 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:39:31.005 [main] INFO  TestCases.TC3LoginWithDDT - Successfully logged in
+11:39:31.660 [main] INFO  TestCases.TC3LoginWithDDT - **** finishing test  ****
+11:39:34.711 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@a5272be: 37 ms
+11:39:34.712 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d9bd4da: 1 ms
+11:39:34.719 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@423b2b62: 7 ms
+11:39:34.724 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75d4a80f: 4 ms
+11:39:34.728 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6cf0a747: 3 ms
+11:39:34.729 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21505815: 1 ms

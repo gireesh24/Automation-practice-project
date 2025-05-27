@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/intellij Idea/Project2/src/test/java/TestCases/TC3LoginWithDDT.java"><classes><class name="TestCases.TC3LoginWithDDT"><methods><include name="VerifyloginDDT"/></methods></class></classes></test></suite>
